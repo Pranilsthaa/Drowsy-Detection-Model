@@ -1,6 +1,5 @@
 import streamlit as st
 import numpy as np
-import cv2
 from tensorflow import keras
 from PIL import Image
 
